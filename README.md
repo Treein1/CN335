@@ -6,7 +6,7 @@
 <H3>Model handmake</H3>
 
 - ตัวละครหลัก วิญญาณ (เรนเดอร์ด้วย Cycles)
-![ghost cycle](https://user-images.githubusercontent.com/97663752/171625284-6bed3c18-0697-4798-a0d1-0afdc1375a24.png)
+![ghost cycle 2](https://user-images.githubusercontent.com/97663752/171630435-d824a907-fcae-4693-b92d-b56e407843b2.png)
 - ตัวละครเสริม ผู้นำทางวิญญาณ (เรนเดอร์ด้วย Cycles)
 ![yellow ghost](https://user-images.githubusercontent.com/97663752/171629048-2f01bc25-f1c6-4298-aaff-6d2aa4cdb232.png)
 - โลกก่อนวิญญาณไปเกิด (เรนเดอร์ด้วย Cycles)
