@@ -6,3 +6,4 @@
 <H3>Model handmake</H3>
 
 - ตัวละครหลัก วิญญาณ
+![ghost cycle](https://user-images.githubusercontent.com/97663752/171625284-6bed3c18-0697-4798-a0d1-0afdc1375a24.png)
